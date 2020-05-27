@@ -16,7 +16,7 @@
   },
   "require": {
     "aws/aws-sdk-php": "^3.20",
-    "illuminate/support": "5.*"
+    "illuminate/support": "6.*"
   },
   "require-dev": {
     "mockery/mockery": "^0.9.6",
